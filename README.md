@@ -1,6 +1,7 @@
 # Petlove - Análise de Dados
 
 # O problema
+
 A equipe de assinaturas tem como objetivo reduzir a perda de assinantes. O termo "Churn" é ultilizado para referenciar a perda de qualquer usuário que assinou o serviço de assinatura da Petlove e o cancelou em algum momento após a contratação.
 
 Para resolução do problema será considerado alguns questionamentos, tais como:
@@ -10,11 +11,14 @@ Para resolução do problema será considerado alguns questionamentos, tais como
 
 
 # Recursos
-Neste projeto, foram utilizadas a linguagem de programação Python, as bibliotecas Pandas e Matplotlib. Além disso, foram criadas algumas visualizações no Power BI que foram incluídas no relatório final. 
+
+Neste projeto, foram utilizadas a linguagem de programação Python, as bibliotecas Pandas e Matplotlib.
 
 
 # Sobre a amostra
+
 A amostra contém dados dos clientes que realizaram a assinatura na PetLove no período de 19 de fevereiro de 2016 a 18 de fevereiro de 2021.
+
 
 **Descrição das colunas da amostra:**
 
